@@ -1,2 +1,2 @@
 # NN_class
-Created a custom Neural network class from scratch 
+Creating  a custom Neural network class from scratch for learning purposes. Ongoing project
